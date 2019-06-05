@@ -14,10 +14,12 @@ body {
       text-align: center;
   }
   .welcome h2, .welcome h1 { color: #fff;}
+  .welcome h2 { margin: 100px 0px 50px 0px;}
   .welcome h3 { font-size: .9rem; font-weight: bold;}
-  .welcome img { width: 50px; margin-bottom: 20px;}
-  .welcome .card { min-height: 180px;}
-  .welcome .card-footer-item { font-size: 1.5rem;}
+  .welcome img { width: 30px; margin-bottom: 10px;}
+  .welcome .card { min-height: 100px; width: 75%;}
+  .welcome .card-content { padding: .5rem 0;}
+  .welcome .card-footer-item { font-size: 1rem; padding: .5rem 0;}
 .h2 { font-size: 1.5rem; font-weight: bold;}
 
   .page-header {
